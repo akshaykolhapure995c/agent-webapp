@@ -1,0 +1,26 @@
+﻿#btn2{
+	color: #4B5154;
+    font-size: 12px;
+    padding: .5em 1em;
+    border: solid 1px #A8A4A4;
+    text-align: center;
+    text-decoration: none;
+    background: none;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+
+#btn2:hover {
+    background: white;
+	
+	border: solid 1px black;
+    color: #212121;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
